@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:      pygments
+
+#
+encoding:         "utf-8"
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Leejy
+tagline:          北京邮电大学 信息与通信工程学院 2012级学生
+description:      北京邮电大学 信息与通信工程学院 2012级学生
+url:              http://shelldone.com
+
+author:
+  name:           'Leejy'
+  url:            https://github.com/leejieyu
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+# duoshuo
+comments :
+    provider : duoshuo
+    duoshuo :
+      short_name : leejy
