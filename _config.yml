@@ -8,13 +8,13 @@ encoding:         "utf-8"
 permalink:        pretty
 
 # Setup
-title:            Leejy
+title:            Joy
 tagline:          有所得，有所思
-description:      北京邮电大学 信息与通信工程学院 2012级学生
+description:      李婕妤(Joy Lee) 北京邮电大学 信息与通信工程学院 2012级学生
 url:              http://shelldone.com
 
 author:
-  name:           'Leejy'
+  name:           'Joy Lee'
   url:            https://github.com/leejieyu
 
 paginate:         5
