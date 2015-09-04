@@ -12,3 +12,5 @@ title: About
 * 立志成为一名有开发能力的架构师
 
 
+###联系我
+* email：lijieyu0326@gmail.com
